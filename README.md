@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🌿 I'm Lucía</h1>
-<h2 align="center">I like to use GitHub as my learn-in-public space 🚀</h2> 
+<h2 align="center">I like to use GitHub as my learn-in-public space 🌈</h2> 
 
 ### 💎  [lux-soft](lux-soft.com) my personal page, minimalist and simple --under construction--
 
-✉️ [luciabrumnichhr@gmail.com](mailto:luciabrumnichhr@gmail.com)
+🐝 [luciabrumnichhr@gmail.com](mailto:luciabrumnichhr@gmail.com)
 
 <a href="https://www.twitter.com/luciabrumnich" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/luciabrumnich?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
