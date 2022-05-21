@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🌿 I'm Lucía</h1>
 <h2 align="center">I like to use GitHub as my learn-in-public space 🌈</h2> 
 
-### 💎  [lux-soft](lux-soft.com) my personal page, minimalist and simple --under construction--
+### 💎  [lux-soft](http://www.lux-soft.com) my personal page, minimalist and simple --under construction--
 
 🐝 [luciabrumnichhr@gmail.com](mailto:luciabrumnichhr@gmail.com)
 
